@@ -1,0 +1,8 @@
+[submodule "ext/SFML"]
+	path = ext/SFML
+	url = https://github.com/SFML/SFML.git
+	branch = tags/2.5.1
+[submodule "ext/SFGUI"]
+	path = ext/SFGUI
+	url = https://github.com/TankOs/SFGUI.git
+	branch = tags/0.4.0
